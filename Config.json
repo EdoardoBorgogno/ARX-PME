@@ -1,0 +1,39 @@
+{
+  "ApiPME": {
+    "url": "",
+    "appkey": "",
+    "userLogin": {
+      "loginType": "",
+      "jwt": "",
+      "username": "",
+      "password": ""
+    }
+  },
+  "updater": {
+    "localVersion": "",
+    "installUpdateAt": "04:00",
+    "everyXDays": 2,
+    "autoUpdate": true
+  },
+  "LegacyVersion": {
+    "commands": {
+      "-r": {
+        "attività_da_leggere": ""
+      },
+      "-ua": {
+        "p": "Pianificata",
+        "n": "Notificata",
+        "c": "Conclusa",
+        "a": "Annullata",
+        "r": "Da ripianificare",
+        "conf": "Confermata"
+      },
+      "-disable_project": {
+        "disable_name": "Da pianificare"
+      },
+      "-cancel_project": {
+        "cancel_name": "Eliminati"
+      }
+    }
+  }
+}
