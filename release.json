@@ -1,0 +1,34 @@
+{
+    "name": "ARX-PME v.1.0.0.0",
+    "description": "First ARX-PME release",
+    "version": "v.1.0.0.0",
+    "previousVersion": "",
+    "assets": {
+        "updated": [
+            
+        ],
+        "removed": [
+	        
+        ],
+        "added": [
+            {
+                "name": "Config.json",
+                "baseFolder": "ProgramData",
+                "path": "ARX-PME/Config"
+            },
+            {
+                "name": "ARX-PME_Updater.exe",
+                "baseFolder": "Program",
+                "path": "ARX-PME/Update"
+            },
+            {
+                "name": "ARX-PME_Connector.exe",
+                "baseFolder": "Program",
+                "path": "ARX-PME/ARX-PME"
+            }
+        ],
+        "unchanged": [
+            
+        ]
+    }
+}
