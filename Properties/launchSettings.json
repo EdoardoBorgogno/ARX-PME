@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ARX-PME_Connector": {
+      "commandName": "Project",
+      "commandLineArgs": "-move  -customerName  \"TEST SPA\"  -dateFrom  2022/07/10  -dateTo 2022/07/20  -moveTo  \"Da pianificare\""
+    }
+  }
+}
